@@ -56,5 +56,3 @@
 ------
 
 <h3 align="center">Love From Ghana ❤️</h3>
-[Samuel Boamah](https://github.com/samboamah)
-
