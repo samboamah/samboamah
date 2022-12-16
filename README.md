@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sanuel <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hi 👋, I'm Samuel <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate Software Engineer (albeit a beginner designer at the moment 🎃✨) developer from Ghana</h3>
 
 - 🔭 I’m currently working on my **Bash, C and Python Courses**
