@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Samuel <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate Software Engineer (albeit a beginner designer at the moment 🎃✨) developer from Ghana</h3>
+<h3 align="center">A passionate Software Engineer/Developer (albeit a beginner designer at the moment 🎃✨) from [Ghana](https://en.wikipedia.org/wiki/Ghana)</h3>
 
 - 🔭 I’m currently working on my **Bash, C and Python Courses**
 
-- 🌱 I’m currently learning **Full Stack Software Engineering** with [ALX AFRICA](https://www.alxafrica.com/)
+- 🌱 I’m currently learning **Full Stack Software Engineering** with **[ALX AFRICA](https://www.alxafrica.com/)**
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
