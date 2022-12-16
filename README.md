@@ -1,5 +1,5 @@
 <h1 align="center">Greetings! 👋, I'm Samuel <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate Software Engineering from Ghana </h3>
+<h3 align="center">A passionate Software Engineering Student from Ghana </h3>
 
 - 🔭 I’m currently working on my **Bash, C and Python Projects**
 
