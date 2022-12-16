@@ -56,4 +56,4 @@
 ------
 
 [Samuel Boamah](https://github.com/samboamah)
-<h3 align="center">Love From India ❤️</h3>
+<h3 align="center">Love From Ghana ❤️</h3>
