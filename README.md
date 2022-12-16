@@ -7,6 +7,10 @@
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
+- 👨‍💻 Ask me about anything, I am happy to help.
+
+- 🎈 Fun-Fact: I was a chemical engineering before becoming a software engineer.
+
 - 📫 Reach me on email: **skboamah16@gmail.com**
 
 - ⚡ What I like to do: **I like to read, research, football, swimming...and coding of course**
