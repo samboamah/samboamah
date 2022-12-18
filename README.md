@@ -9,7 +9,7 @@
 
 - 👨‍💻 Ask me about anything, I am happy to help.
 
-- 🎈 Fun-Fact: I was a chemical engineering before becoming a software engineer.
+- 🎈 Fun-Fact: I am a chemical engineer and now becoming a software engineer too👨‍💻.
 
 - 📫 Reach me on email: **skboamah16@gmail.com**
 
